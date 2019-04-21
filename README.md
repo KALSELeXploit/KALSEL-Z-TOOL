@@ -1,5 +1,5 @@
 # KALSEL-Z-TOOL
-# Install And Run In Termux
+# Installation
     pkg update && pkg upgrade
     Pkg install git figlet
     git clone https://github.com/KALSELeXploit/KALSEL-Z-TOOL
